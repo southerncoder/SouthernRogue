@@ -1,1 +1,0 @@
-RogueCollection.exe e --rogomatic --seed 1755949202 --genes "75 78 86 54 38 36 66 57"

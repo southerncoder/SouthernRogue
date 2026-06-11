@@ -1,5 +1,0 @@
-module RoguePlugin
-plugin rogueplugin
-RogueTitle 1.0 qrc:RogueTitle.qml
-GameSelect 1.0 qrc:GameSelect.qml
-RogueWindow 1.0 qrc:RogueWindow.qml
